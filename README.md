@@ -1,3 +1,3 @@
-## Alliedstrand Open Source Community Participation Guidelines
+## Alliedstrand Open Source Code of Conduct
 
 [English, US](en-US.md)
