@@ -1,4 +1,4 @@
-# Alliedstrand Open Source Community Participation Guidelines
+# Alliedstrand Open Source Code of Conduct
 
 We put people first and do our best to recognize, appreciate and respect the
 diversity of our global contributors and participants. Alliedstrand
